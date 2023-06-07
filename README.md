@@ -15,6 +15,12 @@ Also familiar with: Bootstrap, React-Bootstrap, Jest, Git, Docker, SQL, Linux, Q
 
 Currently looking for a full time Frontend-Developer job.
 
+Contacts: 
+- www.linkedin.com/in/boris-obinyakov
+- https://t.me/Sirflyingv
+
+
+
 <!--
 **sirflyingv/sirflyingv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
