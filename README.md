@@ -1,4 +1,17 @@
-### Hi there 👋
+### Boris Obinyakov
+
+I'm JavaScript Frontend developer with background in GIS and cartography. 
+
+Few years of working in team with software developers gave interest for programming, so here we go!
+
+Main skills are:
+- JavaScript
+- HTML
+- CSS
+- React / Redux Toolkit
+- Node.js
+
+Currently looking for a full time Frontend-Developer job.
 
 <!--
 **sirflyingv/sirflyingv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
