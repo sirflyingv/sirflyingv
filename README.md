@@ -15,6 +15,8 @@ Also familiar with: Bootstrap, React-Bootstrap, Jest, Git, Docker, SQL, Linux, Q
 
 Currently looking for a full time Frontend-Developer job.
 
+CV: https://cv.hexlet.io/ru/resumes/2208
+
 Contacts: 
 - www.linkedin.com/in/boris-obinyakov
 - https://t.me/Sirflyingv
