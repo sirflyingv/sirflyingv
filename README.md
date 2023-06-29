@@ -11,7 +11,7 @@ Main skills are:
 - React / Redux Toolkit
 - Node.js
 
-Also familiar with: Bootstrap, React-Bootstrap, Jest, Git, Docker, SQL, Linux, QGIS, 3D modeling, etc.
+Also familiar with: Express, Bootstrap, React-Bootstrap, Jest, Git, Docker, SQL, Linux, QGIS, 3D modeling, etc.
 
 Currently looking for a full time Frontend-Developer job.
 
