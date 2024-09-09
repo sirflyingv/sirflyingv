@@ -1,17 +1,6 @@
 ### Boris Obinyakov
 
-I'm JavaScript Frontend developer with background in GIS and cartography. 
-
-Few years of working in team with software developers gave interest for programming, so here we go!
-
-Main skills are:
-- JavaScript
-- HTML
-- CSS
-- React / Redux Toolkit
-- Node.js
-
-Also familiar with: Express, Bootstrap, React-Bootstrap, Jest, Git, Docker, SQL, Linux, QGIS, 3D modeling, etc.
+I'm Frontend developer with background in GIS and cartography. 
 
 Contacts: 
 - www.linkedin.com/in/boris-obinyakov
